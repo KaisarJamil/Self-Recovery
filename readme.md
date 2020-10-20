@@ -3,6 +3,7 @@ Its a research solution about to recover those drug addicted people who wants to
 This project is implemented by using HTML, CSS, Laravel and MySQL. This project is not completed yet, its an ongoing project.
 
 
+video: https://www.youtube.com/watch?v=n-1DXV_YEDE
 
 Here are some screenshots of this project, hope you will get some idea:
 
